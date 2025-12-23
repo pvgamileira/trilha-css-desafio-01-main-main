@@ -36,10 +36,20 @@ img{
 
 }
 
-.logo{
+.banner .logo{
+    background-color: rgba(0, 0, 0, .2);
+    height: 260px;
+    width: 260px;
     margin: auto;
-    width: 228px;
-    height: 228px;
+    border-radius: 50%;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.banner .logo img{
+    margin: auto;
+    width: 100%;
+    height: 100%;
     object-fit: contain;
 }
 
@@ -123,6 +133,12 @@ section{
     padding: 16px;
     border-radius: 100px;
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
+    margin-top: 2rem;
+    text-transform: initial ;
+}
+
+#course-content .modules-list .module span{
+    color: #1472B7;
 
 }
 
