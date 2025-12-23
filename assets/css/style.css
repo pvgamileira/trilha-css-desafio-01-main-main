@@ -134,7 +134,7 @@ section{
     border-radius: 100px;
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
     margin-top: 2rem;
-    text-transform: initial ;
+    text-transform: initial;
 }
 
 #course-content .modules-list .module span{
